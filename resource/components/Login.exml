@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Login" width="480" height="800" xmlns:e="http://ns.egret.com/eui">
+
+	<e:Group >
+		<e:Image width="200" height="245.33" x="50" y="141" anchorOffsetX="0" anchorOffsetY="0" source="resource/assets/bg.jpg"/>
+	<e:Button label="Button" x="99" y="175"/>
+	</e:Group>
+
+</e:Skin>
